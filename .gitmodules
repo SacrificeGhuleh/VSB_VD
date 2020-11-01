@@ -1,11 +1,11 @@
 [submodule "cv01"]
-	path = cv01
-	url = https://github.com/SacrificeGhuleh/vd_cv01.git
+  path = cv01
+  url = https://github.com/SacrificeGhuleh/vd_cv01.git
 
-  [submodule "cv02"]
-	path = cv02
-	url = https://github.com/SacrificeGhuleh/vd_cv02.git
+[submodule "cv02"]
+  path = cv02
+  url = https://github.com/SacrificeGhuleh/vd_cv02.git
 
-  [submodule "cv03"]
-	path = cv03
-	url = https://github.com/SacrificeGhuleh/vd_cv03.git
+[submodule "cv03"]
+  path = cv03
+  url = https://github.com/SacrificeGhuleh/vd_cv03.git
