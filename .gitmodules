@@ -1,0 +1,3 @@
+[submodule "cv01"]
+	path = cv01
+	url = https://github.com/SacrificeGhuleh/vd_cv01.git
