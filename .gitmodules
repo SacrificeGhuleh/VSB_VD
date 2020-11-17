@@ -13,3 +13,7 @@
 [submodule "cv04"]
   path = cv04
   url = https://github.com/SacrificeGhuleh/vd_cv04.git
+
+[submodule "cv05"]
+  path = cv05
+  url = https://github.com/SacrificeGhuleh/vd_cv05.git
