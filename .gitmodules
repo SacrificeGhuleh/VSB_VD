@@ -16,4 +16,8 @@
 
 [submodule "cv05"]
   path = cv05
-  url = https://github.com/SacrificeGhuleh/vd_cv05.git
+  url = https://github.com/SacrificeGhuleh/vd_cv05.git           
+
+[submodule "cv06"]
+  path = cv06
+  url = https://github.com/SacrificeGhuleh/vd_cv06.git
